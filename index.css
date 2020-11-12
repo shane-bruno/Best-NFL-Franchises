@@ -1,0 +1,82 @@
+body {background-color:lightGray}
+h1 {
+  text-align: center;
+  background-color:lightSalmon;
+}
+.topnav {
+  text-align: center;
+  background-color: MediumAquaMarine;
+  padding: 4px 50px;
+}
+
+/*Conference Header Style*/
+.conferencehead {
+  background-color:white;
+}
+/*NFC Header Style*/
+#nfchead {
+  color:blue;
+}
+/*AFC Header Style*/
+#afchead {
+  color:red;
+}
+/*conference body styling*/
+.nfcstyle {
+  background:#91b4ff;
+}
+.afcstyle {
+  background:#ffa1a1;
+}
+.divisionhead {
+  text-decoration:underline overline;
+}
+.bestteam {
+  background:grey;
+}
+
+/*Individual Teams head text colorscheme*/
+/*San Francisco*/
+#sf {
+ color:red;
+ text-shadow:gold 1px 1px;
+}
+/*Dallas Cowboys*/
+#dal {
+  color:blue;
+  text-shadow:white 1px 1px;
+}
+/*Green Bay Packers*/
+#gb {
+  color:green;
+  text-shadow:yellow 1px 1px;
+}
+/*New Orleans Saints*/
+#no {
+  color:black;
+  text-shadow:gold 1px 1px;
+}
+/*Denver Broncos*/
+#den {
+  color:navy;
+  text-shadow:darkorange 1px 1px;
+}
+/*New England Patriots*/
+#ne {
+  color:navy;
+  text-shadow:red 1px 1px;
+}
+/*Pittsburgh Steelers*/
+#pit {
+  color:black;
+  text-shadow:yellow 1px 1px;
+}
+/*Indianapolis Colts*/
+#ind {
+  color:blue;
+  text-shadow:white 1px 1px;
+}
+
+
+
+
