@@ -1,0 +1,170 @@
+body {
+  background: green;
+}
+/*Title*/
+h1 {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  text-decoration: underline;
+  margin:auto;
+}
+.topnav {
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+  background-color: red;
+  padding: 5px 1px;
+}
+#divisionstable {
+  margin-right: auto;
+  margin-left: auto;
+  background: white;
+  border: solid blue;
+}
+.tablehead {
+  padding:10px;    
+}
+th {
+  border: solid blue 3px;
+}
+
+/***Conference Header Style***/
+.conferencehead {
+  font-size: 200%;
+  background-color:white;
+  margin: 10px auto 10px auto;
+  text-align: center;
+}
+/*NFC Head Style*/
+#nfchead {
+  border: solid blue 2px;
+  color:blue;
+}
+/*AFC Head Style*/
+#afchead {
+  border: solid red 2px;
+  color:red;
+}
+/***Conference body styling***/
+.conferencestyle {
+  margin: 30px 15% 30px 15%;
+}
+/** individual conference body styling**/
+/*NFC styling*/
+.nfcstyle {
+  background:#91b4ff;
+  border-radius: 30px 30px 30px 30px;
+  padding: 20px 20px 50px 20px;
+}
+/*AFC styling*/
+.afcstyle {
+  background:#ffa1a1;
+  border-radius: 30px 30px 30px 30px;
+  padding: 20px 20px 50px 20px;
+}
+/***Division head styling***/
+.divisionhead {
+  text-decoration:underline overline;
+  font-size: 150%;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+}
+
+/***Best Team in Each Divison***/
+.bestteam {
+  background: white;
+  padding: 8px 8px 8px 15px;
+  border-radius: 2px;
+  font-size: 120%;
+  margin: 10px 10px 0px 10px;
+}
+
+/**Individual Beast Teams head text colorscheme**/
+/*San Francisco Head*/
+#sfhead {
+ color:red;
+ text-shadow:gold 1px 1px;
+ border:3px solid red;
+}
+/*Dallas Cowboys Head*/
+#dalhead {
+  color:blue;
+  text-shadow:grey 1px 1px;
+  border:solid 3px;
+}
+/*Green Bay Packers Head*/
+#gbhead {
+  color:green;
+  text-shadow:yellow 1px 1px;
+  border: solid 3px;
+}
+/*New Orleans Saints Head*/
+#nohead {
+  color:black;
+  text-shadow:gold 1px 1px;
+  border: 3px solid;
+}
+/*Denver Broncos Head*/
+#denhead {
+  color:navy;
+  text-shadow:darkorange 1px 1px;
+  border: 3px solid;
+}
+/*New England Patriots Head*/
+#nehead {
+  color:navy;
+  text-shadow:red 1px 1px;
+  border: solid 3px;
+}
+/*Pittsburgh Steelers Head*/
+#pithead {
+  color:black;
+  text-shadow:yellow 1px 1px;
+  border: solid 3px;
+}
+/*Indianapolis Colts Head*/
+#indhead {
+  color:blue;
+  text-shadow:white 1px 1px;
+  border: solid 3px;
+}
+/***Team Info Paragraphs***/
+.teaminfo {
+  font-size: 120%;
+  background: white;
+  margin: 0px 10px 40px 10px
+}
+/**Individual Team Info paragraphs**/
+/*San Francisco info*/
+#sfinfo {
+  border: solid gold;
+}
+/*Dallas Cowboys info*/
+#dalinfo {
+  border: solid grey;
+}
+/*Green Bay info*/
+#gbinfo {
+  border: solid yellow;
+}
+/*New Orleans info*/
+#noinfo {
+  border: solid gold;
+}
+/*Denver info*/
+#deninfo {
+  border: solid darkorange;
+}
+/*New England info*/
+#neinfo {
+  border: solid red;
+}
+/*Pittsburgh info*/
+#pitinfo {
+  border: solid gold;
+}
+/*Indianapolis info*/
+#indinfo {
+  border: solid white;
+}
